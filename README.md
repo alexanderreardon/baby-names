@@ -5,6 +5,9 @@ Created using React.
 
 _Data source: https://www.ssa.gov/oact/babynames/limits.html_
 
+--- 
 ### TODO:
 1. Remove baby names from shortlist when clicked.
 1. Remove shortlisted baby names from list of all baby names.
+1. Update favicon
+1. Create production build, upload to GitHub Pages.
