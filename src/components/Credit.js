@@ -4,8 +4,8 @@ export default () =>
     <div className="credit">
         <p>Source of names list:
             {' '}
-            <a href="https://www.yahoo.com/parenting/atticus-tops-baby-names-2015-124073377716.html">
-            Yahoo - Top Baby Names in 2015
+            <a href="https://www.ssa.gov/oact/babynames/limits.html">
+            US Social Security - Top National Baby Names (2010-2017)
             </a>
         </p>
     </div>
